@@ -3,8 +3,6 @@ let p1V, p2V;
 let p1S, p2S;
 let ball, ballV;
 
-const
-
 function setup() {
   createCanvas(600, 400);
   p1 = height / 2 - 50;
